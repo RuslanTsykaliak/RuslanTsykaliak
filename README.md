@@ -9,7 +9,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ruslantsykaliak&langs_count=5&theme=tokyonight&hide=pug,html,css,scss,hack)]()
+<!--
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruslantsykaliak&show_icons=true&locale=en&layout=compact&hide=pug,css,scss,hack" alt="ruslantsykaliak" /></p>
+-->
 
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
