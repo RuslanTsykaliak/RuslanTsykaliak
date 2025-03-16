@@ -46,7 +46,7 @@
 <ul>
     <li><strong>Portfolio Projects</strong></li>
     <ul>
-        <li><a href="https://ruslantsykaliak.com/">React Next.js Portfolio</a></li>
+        <li><a href="https://ruslan-tsykaliak.vercel.app">React Next.js Portfolio</a></li>
         <li><a href="https://html-css-portfolio-rt.vercel.app">HTML CSS Portfolio Website</a></li>
     </ul>
     <li><strong>Full Stack</strong></li>
