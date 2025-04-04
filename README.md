@@ -2,9 +2,9 @@
 <h3 align="center">A Full Stack developer with a keen interest in TypeScript and Next.js. My journey in tech also includes hands-on experience in mobile development, allowing me to create versatile and dynamic applications.</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ruslan-tsykaliak-09a054232/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ruslan-tsykaliak" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://www.youtube.com/@ruslantsykaliak5455" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/ruslantsykaliak/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/ruslantsykaliak" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
