@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruslan Tsykaliak</h1>
-<h3 align="center">A Full Stack developer with a keen interest in TypeScript and Next.js. My journey in tech also includes hands-on experience in mobile development, allowing me to create versatile and dynamic applications.</h3>
+<h3 align="center">A Full-Stack Developer at AT&T with a focus on cybersecurity. My journey in tech also includes hands-on experience in web and mobile development, allowing me to create versatile and dynamic applications.</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ruslan-tsykaliak" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
